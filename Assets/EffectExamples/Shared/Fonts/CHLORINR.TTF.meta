@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8146967c192218f4ab60c5cc859af7d5
+timeCreated: 1512459482
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Chlorinar
+  fontNames:
+  - Chlorinar
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

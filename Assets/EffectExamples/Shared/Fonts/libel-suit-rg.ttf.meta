@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b4fd0b59432cd3747affb52ee6399889
+timeCreated: 1512459482
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Libel Suit
+  fontNames:
+  - Libel Suit
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
